@@ -54,5 +54,3 @@
 #    define RGB_MATRIX_FRAMEBUFFER_EFFECTS
 
 #endif
-
-#define DEBOUNCE 20
